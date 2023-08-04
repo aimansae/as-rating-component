@@ -28,4 +28,4 @@ As required users are be able to:
 ## Deploying the project
 
 The project was deployed using [Netlify](https://www.netlify.com/)
-Please find the live site [here]()
+Please find the live site [here](https://as-rating-card.netlify.app/)
